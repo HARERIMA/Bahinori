@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931593151707",
+    "project_id": "bahinoti-69754",
+    "storage_bucket": "bahinoti-69754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931593151707:android:265d04c5f6507fe8a9d8fe",
+        "android_client_info": {
+          "package_name": "com.app.bahinoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931593151707-gd88eac8hoo9d9pp0r8u4v8lnd1h3sdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQhZux-S1_XORvX8MolRu3sg3SPm2vfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931593151707-gd88eac8hoo9d9pp0r8u4v8lnd1h3sdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
